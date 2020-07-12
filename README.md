@@ -1,4 +1,9 @@
 # React Pokemon Searcher
+To start the app follow commands:
+
+TO INSTALL: npm install -g json-server
+TO START: json-server --watch db.json
+npm start 
 
 ![Pokemon search screen recording](https://curriculum-content.s3.amazonaws.com/react/pokemon.gif)
 
